@@ -1,0 +1,7 @@
+{
+  "name": "more-btn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
